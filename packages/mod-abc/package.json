@@ -1,0 +1,20 @@
+{
+	"name": "@bladedancer/mod-abc",
+	"version": "1.0.14",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"@bladedancer/mod-a": "^1.0.8",
+		"@bladedancer/mod-b": "^1.0.3",
+		"@bladedancer/mod-c": "^1.0.4"
+	},
+	"api-builder": {
+		"release": "Manchester"
+	},
+	"scripts": {
+		"test": "node .",
+		"build": "exit 0"
+	},
+	"author": "",
+	"license": "ISC"
+}
